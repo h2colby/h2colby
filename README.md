@@ -1,6 +1,6 @@
 👋 Hi, I’m @h2colby
 
-👀 I’m interested in revolutionizing hydrogen energy through innovative electrolyzer technology and renewable energy solutions./
+👀 I’m interested in revolutionizing hydrogen energy through innovative electrolyzer technology and renewable energy solutions.//
 🌱 I’m currently working on Tobe Energy, focused on clean hydrogen production and the development of cold electrolysis technology./
 💞️ I’m looking to collaborate on projects that push the boundaries of renewable energy, hydrogen tech, and sustainable systems./
 📫 You can reach me on twitter or instagram @h2colby, LinkedIn @colbydeweese or through Tobe Energy./
